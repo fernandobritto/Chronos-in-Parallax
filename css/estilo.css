@@ -23,7 +23,6 @@ h1 { color: transparent; }
 #clock_1 {
 			background: url("../assets/images/clock002.png") no-repeat 10px 200px;
 		}
-
 		
 #clock_2 {
 			background: url("../assets/images/clock003.png") no-repeat 350px 300px;
@@ -32,7 +31,6 @@ h1 { color: transparent; }
 #clock_3 {
 			background: url("../assets/images/clock005.png") no-repeat 750px 200px;
 		}
-
 		
 #clock_4 {
 			background: url("../assets/images/clock006.png") no-repeat 945px 85px;
@@ -49,7 +47,6 @@ h1 { color: transparent; }
 #clock_7 {
 			background: url("../assets/images/clock009.png") no-repeat 750px 600px;
 		}
-
 		
 #clock_8 {
 			background: url("../assets/images/clock010.png") no-repeat 945px 605px;
@@ -61,4 +58,3 @@ h1 { color: transparent; }
 #clock_10 {
 			background: url("../assets/images/clock015.png") no-repeat 45px 805px;
 		}
-		

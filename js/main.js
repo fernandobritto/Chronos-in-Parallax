@@ -1,5 +1,11 @@
 // JavaScript File
 
+/*
+============================================================================================
+Função do Efeito Parallax 
+============================================================================================
+*/
+
 function parallax(){
 		// Declarando as var.
 		var layer_1 = document.getElementById('clock_1');
@@ -20,13 +26,12 @@ function parallax(){
 		layer_2.style.top = -(window.pageYOffset / 9) + 'px';
 		layer_3.style.top = -(window.pageYOffset / 10) + 'px';
 		layer_4.style.top = -(window.pageYOffset / 9) + 'px';
-		layer_5.style.top = -(window.pageYOffset / 3) + 'px';
-		layer_6.style.top = -(window.pageYOffset / 9) + 'px';
+		layer_5.style.top = -(window.pageYOffset / 1) + 'px';
+		layer_6.style.top = -(window.pageYOffset / 7) + 'px';
 		layer_7.style.top = -(window.pageYOffset / 10) + 'px';
-		layer_8.style.top = -(window.pageYOffset / 9) + 'px';
-		layer_9.style.top = -(window.pageYOffset / 10) + 'px';
+		layer_8.style.top = -(window.pageYOffset / 5) + 'px';
+		layer_9.style.top = -(window.pageYOffset / 4) + 'px';
 		layer_10.style.top = -(window.pageYOffset / 9) + 'px';
-		
 		
 
 	}
