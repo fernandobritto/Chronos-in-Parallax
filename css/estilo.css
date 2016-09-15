@@ -16,16 +16,16 @@ h1 { color: transparent; }
 .img-parallax {
 			position: fixed;
 			width: 100%;
-			height: 1500px;
+			height: 3500px;
 		}
 		
 		
 #clock_1 {
-			background: url("../assets/images/clock002.png") no-repeat 10px 200px;
+			background: url("../assets/images/clock002.png") no-repeat 10px 175px;
 		}
 		
 #clock_2 {
-			background: url("../assets/images/clock003.png") no-repeat 350px 300px;
+			background: url("../assets/images/clock003.png") no-repeat 365px 300px;
 		}
 		
 #clock_3 {
@@ -57,4 +57,62 @@ h1 { color: transparent; }
 		}
 #clock_10 {
 			background: url("../assets/images/clock015.png") no-repeat 45px 805px;
+		}
+		
+#clock_11 {
+			background: url("../assets/images/clock002.png") no-repeat 10px 875px;
+		}
+		
+#clock_12 {
+			background: url("../assets/images/clock003.png") no-repeat 365px 900px;
+		}
+		
+#clock_13 {
+			background: url("../assets/images/clock005.png") no-repeat 750px 900px;
+		}
+		
+#clock_14 {
+			background: url("../assets/images/clock006.png") no-repeat 945px 1085px;
+		}
+		
+#clock_15 {
+			background: url("../assets/images/clock007.png") no-repeat 10px 1000px;
+		}
+		
+#clock_16 {
+			background: url("../assets/images/clock008.png") no-repeat 350px 1060px;
+		}
+		
+#clock_17 {
+			background: url("../assets/images/clock009.png") no-repeat 750px 1045px;
+		}
+		
+#clock_18 {
+			background: url("../assets/images/clock010.png") no-repeat 945px 905px;
+		}
+		
+#clock_19 {
+			background: url("../assets/images/clock011.png") no-repeat 945px 1205px;
+		}
+#clock_20 {
+			background: url("../assets/images/clock015.png") no-repeat 45px 1205px;
+		}
+		
+#clock_21 {
+			background: url("../assets/images/clock008.png") no-repeat 350px 1860px;
+		}
+		
+#clock_22 {
+			background: url("../assets/images/clock009.png") no-repeat 750px 2045px;
+		}
+		
+#clock_23 {
+			background: url("../assets/images/clock010.png") no-repeat 945px 2005px;
+		}
+		
+#clock_24 {
+			background: url("../assets/images/clock011.png") no-repeat 945px 2205px;
+		}
+#clock_25 {
+			background: url("../assets/images/clock015.png") no-repeat 45px 2205px;
 		}
