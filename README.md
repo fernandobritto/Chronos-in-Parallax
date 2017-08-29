@@ -1,2 +1,2 @@
 # Chronos-in-Parallax
-Efeito parallax simples utilizando apenas HTML, CSS e JavaScript puro.
+Efeito parallax simples utilizando apenas HTML, CSS e JavaScript.
